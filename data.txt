@@ -1,0 +1,8 @@
+dish,Dinner Plate
+dish,Soup Bowl
+dish,Coffee Mug
+dish,Dessert Plate
+int,42
+int,123
+int,777
+int,999
